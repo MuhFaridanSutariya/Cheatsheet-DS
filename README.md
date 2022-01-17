@@ -1,3 +1,3 @@
 # Cheatsheet-FOR-DS
 
-<img>Statistics_Models.png</img>
+<img src="Statistics_Models.png" alt="">
